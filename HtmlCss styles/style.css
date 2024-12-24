@@ -1,0 +1,207 @@
+@import url("https://fonts.cdnfonts.com/css/satoshi");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.header-top {
+  height: 700px;
+}
+
+.header-top article {
+  position: relative;
+}
+
+.big_photo {
+  width: 1440px;
+  display: block;
+  position: absolute;
+}
+
+.header-title {
+  color: rgb(34, 32, 46);
+  font-family: Clash Display;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.text-one {
+  color: rgb(91, 86, 118);
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.avion {
+  color: rgb(34, 32, 46);
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.view-collection {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  background: white;
+}
+
+.sing-up-purple {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  background: rgb(42, 37, 75);
+}
+
+.sing-up-white {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  background: white;
+}
+
+.view-collection-purple {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  background: rgba(42, 37, 75, 0.85);
+}
+
+.nav-ul li a {
+  color: rgb(114, 110, 141);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.brand-different h3 {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.brand-different ul li h4 {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.brand-different ul li p {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.produkts-prise ul li h4 {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.produkts-prise ul li p {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.small-idea {
+  background: rgb(42, 37, 75);
+  display: flex;
+}
+
+.small-idea h3 {
+  color: rgb(255, 255, 255);
+  font-family: Clash Display;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 39px;
+}
+
+.small-idea p {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.background {
+  position: absolute;
+}
+
+.text-box {
+  position: relative;
+}
+
+.join-club {
+  height: 450px;
+}
+
+footer {
+  /* Dark Primary */
+  background: rgb(42, 37, 75);
+}
+
+footer h4 {
+  color: rgb(255, 255, 255);
+  font-family: Clash Display;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+footer li a {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.bottom p {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.footer-top {
+  display: flex;
+}
